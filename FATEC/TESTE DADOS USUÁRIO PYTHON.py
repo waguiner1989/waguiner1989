@@ -1,7 +1,0 @@
-nome = input ("Qual seu nome? ")
-peso = input ("Qual seu peso? ")
-idade = input ("Qual sua idade? ")
-print ("Relatório")
-print ("Nome: ", nome)
-print ("Peso: ", peso)
-print ("Idade:",idade)
