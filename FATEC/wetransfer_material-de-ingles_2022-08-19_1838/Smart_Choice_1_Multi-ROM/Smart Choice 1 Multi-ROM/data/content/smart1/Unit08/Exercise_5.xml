@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise templateType="8" styleSheet="../stylesheets/T8_style.xml">
+	<title><![CDATA[My ideal life partner (1)]]></title>
+	<rubric><![CDATA[<b>Watch the video. Click on the eight words you hear.</b>]]></rubric>
+	<video>content/smart1/video/L1U08_FINAL_LAN.swf</video>
+	<words>
+		<word answer="correct">curly</word>
+		<word answer="correct">cute</word>
+		<word answer="correct">dark</word>
+		<word answer="correct">funny</word>
+		<word answer="correct">good-looking</word>
+		<word answer="correct">long</word>
+		<word answer="correct">smart</word>
+		<word answer="correct">tall</word>
+		<word>friendly</word>
+		<word>hardworking</word>
+		<word>quiet</word>
+		<word>serious</word>
+		<word>short</word>
+		<word>shy</word>
+		<word>thin</word>
+	</words>
+</exercise>
+
+

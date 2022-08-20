@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise templateType="8" styleSheet="../stylesheets/T8_style.xml">
+	<title><![CDATA[Future plans (1)]]></title>
+	<rubric><![CDATA[<b>Watch the video. Click on the eight words you hear.</b>]]></rubric>
+	<video>content/smart1/video/L1U12_FINAL_LAN.swf</video>
+	<words>
+		<word answer="correct">actor</word>
+		<word answer="correct">doctor</word>
+		<word answer="correct">journalism</word>
+		<word answer="correct">journalist</word>
+		<word answer="correct">law school</word>
+		<word answer="correct">lawyer</word>
+		<word answer="correct">medical school</word>
+		<word answer="correct">waiter</word>
+		<word>art school</word>
+		<word>beauty school</word>
+		<word>business school</word>
+		<word>drama school</word>
+		<word>film school</word>
+		<word>flight school</word>
+		<word>music school</word>
+	</words>
+</exercise>
+
+

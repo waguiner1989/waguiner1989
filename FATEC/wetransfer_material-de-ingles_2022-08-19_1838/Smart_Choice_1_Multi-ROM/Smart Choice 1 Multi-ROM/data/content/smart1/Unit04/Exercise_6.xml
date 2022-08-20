@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise templateType="9" styleSheet="../stylesheets/T9_style.xml">
+	<title><![CDATA[Keeping fit (2)]]></title>
+	<rubric><![CDATA[<b>Watch the video. Read the sentences. Click on the correct expressions to make true sentences.</b>]]></rubric>
+	<video>content/smart1/video/L1U04_FINAL_LAN.swf</video>
+	<questions>
+		<question>
+			<sentence><![CDATA[Danny goes jogging ______.]]></sentence>
+			<options>
+				<option answer="correct">every day</option>
+				<option>once a week</option>
+				<option>twice a week</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Briana does yoga _______.]]></sentence>
+			<options>
+				<option>every day</option>
+				<option>on weekends</option>
+				<option answer="correct">twice a week</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Ken goes to the gym ______ a week.]]></sentence>
+			<options>
+				<option>once</option>
+				<option answer="correct">three times</option>
+				<option>twice</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Gabby plays tennis _______.]]></sentence>
+			<options>
+				<option>every day</option>
+				<option>on Mondays</option>
+				<option answer="correct">on weekends</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Enrico goes bicycling ______.]]></sentence>
+			<options>
+				<option answer="correct">every day</option>
+				<option>once a week</option>
+				<option>twice a week</option>
+			</options>
+		</question>
+		<question>
+			<sentence><![CDATA[Ellie hates the gym, but she walks about ______ a week.]]></sentence>
+			<options>
+				<option>once</option>
+				<option answer="correct">three times</option>
+				<option>twice</option>
+			</options>
+		</question>
+	</questions>
+</exercise>

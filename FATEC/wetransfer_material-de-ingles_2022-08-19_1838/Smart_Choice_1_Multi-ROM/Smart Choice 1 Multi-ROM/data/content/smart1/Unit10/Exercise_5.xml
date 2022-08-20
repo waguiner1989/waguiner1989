@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise templateType="8" styleSheet="../stylesheets/T8b_style.xml">
+	<title><![CDATA[My favorite place (1)]]></title>
+	<rubric><![CDATA[<b>Watch the video. Click on the eight words and expressions you hear.</b>]]></rubric>
+	<video>content/smart1/video/L1U10_FINAL_LAN.swf</video>
+	<words>
+		<word answer="correct">corner</word>
+		<word answer="correct">bookstore</word>
+		<word answer="correct">cafe</word>
+		<word answer="correct">coffee shop</word>
+		<word answer="correct">neighborhood</word>
+		<word answer="correct">library</word>
+		<word answer="correct">movie theater</word>
+		<word answer="correct">near my house</word>
+		<word>down the street</word>
+		<word>drugstore</word>
+		<word>music store</word>
+		<word>near here</word>
+		<word>on my street</word>
+		<word>post office</word>
+		<word>shoe store</word>
+	</words>
+</exercise>
+
+

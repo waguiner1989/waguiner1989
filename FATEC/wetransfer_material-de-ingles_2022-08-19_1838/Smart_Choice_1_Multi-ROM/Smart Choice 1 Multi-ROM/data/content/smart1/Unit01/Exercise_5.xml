@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise templateType="8" styleSheet="../stylesheets/T8_style.xml">
+	<title><![CDATA[My favorite word in English (1)]]></title>
+	<rubric><![CDATA[<b>Watch the video. Click on the eight words you hear.</b></font>]]></rubric>
+	<video>content/smart1/video/L1U01_FINAL_LAN.swf</video>
+	<images>
+	</images>
+	<words>
+		<word answer="correct">English</word>
+		<word answer="correct">favorite</word>
+		<word answer="correct">friendship</word>
+		<word answer="correct">language</word>
+		<word answer="correct">my</word>
+		<word answer="correct">word</word>
+		<word answer="correct">you</word>
+		<word answer="correct">your</word>
+		<word>girlfriend</word>
+		<word>good</word>
+		<word>meet</word>
+		<word>name</word>
+		<word>nice</word>
+		<word>sister</word>
+		<word>who</word>
+	</words>
+</exercise>
+
+

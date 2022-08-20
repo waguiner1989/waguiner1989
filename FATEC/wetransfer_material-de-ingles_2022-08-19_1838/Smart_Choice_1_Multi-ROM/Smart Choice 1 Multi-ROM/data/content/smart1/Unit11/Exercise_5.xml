@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise templateType="8" styleSheet="../stylesheets/T8_style.xml">
+	<title><![CDATA[My best vacation (1)]]></title>
+	<rubric><![CDATA[<b>Watch the video. Click on the eight words you hear.</b>]]></rubric>
+	<video>content/smart1/video/L1U11_FINAL_LAN.swf</video>
+	<words>
+		<word answer="correct">ate</word>
+		<word answer="correct">climbed</word>
+		<word answer="correct">did</word>
+		<word answer="correct">drove</word>
+		<word answer="correct">had</word>
+		<word answer="correct">sang</word>
+		<word answer="correct">stayed</word>
+		<word answer="correct">went</word>
+		<word>forgot</word>
+		<word>got</word>
+		<word>lost</word>
+		<word>missed</word>
+		<word>sat</word>
+		<word>visited</word>
+		<word>wrote</word>
+	</words>
+</exercise>
+
+

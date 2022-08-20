@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise templateType="8" styleSheet="../stylesheets/T8_style.xml">
+	<title><![CDATA[A good place to visit (1)]]></title>
+	<rubric><![CDATA[<b>Watch the video. Click on the eight words you hear.</b>]]></rubric>
+	<video>content/smart1/video/L1U09_FINAL_LAN.swf</video>
+	<words>
+		<word answer="correct">buildings</word>
+		<word answer="correct">cathedrals</word>
+		<word answer="correct">city</word>
+		<word answer="correct">markets</word>
+		<word answer="correct">mountains</word>
+		<word answer="correct">museums</word>
+		<word answer="correct">ocean</word>
+		<word answer="correct">river</word>
+		<word>beach</word>
+		<word>library</word>
+		<word>palace</word>
+		<word>park</word>
+		<word>skyscraper</word>
+		<word>statue</word>
+		<word>zoo</word>
+	</words>
+</exercise>
+
+

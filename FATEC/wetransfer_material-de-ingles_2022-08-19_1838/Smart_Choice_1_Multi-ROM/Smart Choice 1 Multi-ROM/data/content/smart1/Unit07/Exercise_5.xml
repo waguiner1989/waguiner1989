@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise templateType="8" styleSheet="../stylesheets/T8_style.xml">
+	<title><![CDATA[Clothes (1)]]></title>
+	<rubric><![CDATA[<b>Watch the video. Click on the eight words you hear.</b>]]></rubric>
+	<video>content/smart1/video/L1U07_FINAL_LAN.swf</video>
+	<words>
+		<word answer="correct">cheaper</word>
+		<word answer="correct">designer</word>
+		<word answer="correct">expensive</word>
+		<word answer="correct">jeans</word>
+		<word answer="correct">scarves</word>
+		<word answer="correct">skirts</word>
+		<word answer="correct">tie</word>
+		<word answer="correct">T-shirt</word>
+		<word>better</word>
+		<word>dress</word>
+		<word>jacket</word>
+		<word>shirts</word>
+		<word>sneakers</word>
+		<word>stylish</word>
+		<word>worse</word>
+	</words>
+</exercise>
+
+

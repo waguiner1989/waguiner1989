@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise templateType="8" styleSheet="../stylesheets/T8_style.xml">
+	<title><![CDATA[Jobs (1)]]></title>
+	<rubric><![CDATA[<b>Watch the video. Click on the eight words you hear.</b>]]></rubric>
+	<video>content/smart1/video/L1U02_FINAL_LAN.swf</video>
+	<words>
+		<word answer="correct">architect</word>
+		<word answer="correct">boring</word>
+		<word answer="correct">dangerous</word>
+		<word answer="correct">interesting</word>
+		<word answer="correct">police officer</word>
+		<word answer="correct">singer</word>
+		<word answer="correct">taxi driver</word>
+		<word answer="correct">tiring</word>
+		<word>actor</word>
+		<word>chef</word>
+		<word>doctor</word>
+		<word>fantastic</word>
+		<word>nice</word>
+		<word>pilot</word>
+		<word>soccer player</word>
+	</words>
+</exercise>
+
+

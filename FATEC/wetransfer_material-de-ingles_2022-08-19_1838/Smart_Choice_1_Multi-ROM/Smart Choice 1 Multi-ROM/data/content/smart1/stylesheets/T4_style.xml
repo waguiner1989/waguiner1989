@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<styles>
+	<rubric xpos="18" ypos="-5" width="800" font="verdana" size="13" textcolor="" AntiAlias="false"/>
+	<images>
+		<image item="background">templates/template_assets/blank_back.jpg</image>
+		<image item="tickCross">templates/shared_assets/template_checkpoint.swf</image>
+	</images>
+	<buttons>
+		<button item="bigPlayButton" visible="true" enabled = "true" xpos="18" ypos="32">
+			<image>templates/shared_assets/big_play_button.swf</image>
+		</button>
+		<button item="nextQBut" visible="true" enabled = "false" xpos="560" ypos="260">
+			<image>templates/shared_assets/next_question_button.swf</image>
+		</button>
+	</buttons>
+	<assets>
+		<asset item="progress_text" xpos="560" ypos="240" font="verdana" size="14" bold="true" color="0x999999"/>
+		<asset item="pic_holders" visible="true" xpos="120" ypos="32" xstep="215" ystep="169" columns="4">
+			<image>templates/shared_assets/pic_holder.swf</image>
+		</asset>
+	</assets>
+</styles>

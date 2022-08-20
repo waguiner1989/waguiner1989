@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="1" styleSheet="../stylesheets/T1_style.xml">
+	<title>Countries</title>
+	<rubric>Click on the audio button. Listen to the sentence. Drag the word you hear to the box under the picture.</rubric>
+	<picturepath>content/smart1/pics/</picturepath>
+	<audiopath>content/smart1/audio/</audiopath>
+	<word>Australia</word>
+	<word>Brazil</word>
+	<word>Canada</word>
+	<word>China</word>
+	<word>Japan</word>
+	<word>Korea</word>
+	<word>Mexico</word>
+	<word>the United States</word>
+</exercise>
+

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise templateType="8" styleSheet="../stylesheets/T8_style.xml">
+	<title><![CDATA[Food (1)]]></title>
+	<rubric><![CDATA[<b>Watch the video. Click on the eight words you hear.</b>]]></rubric>
+	<video>content/smart1/video/L1U03_FINAL_LAN.swf</video>
+	<words>
+		<word answer="correct">beef</word>
+		<word answer="correct">mangoes</word>
+		<word answer="correct">meat</word>
+		<word answer="correct">pineapples</word>
+		<word answer="correct">pizza</word>
+		<word answer="correct">potatoes</word>
+		<word answer="correct">rice</word>
+		<word answer="correct">sushi</word>
+		<word>cheese</word>
+		<word>chicken</word>
+		<word>lettuce</word>
+		<word>onions</word>
+		<word>shrimp</word>
+		<word>soup</word>
+		<word>tomatoes</word>
+	</words>
+</exercise>
+
+

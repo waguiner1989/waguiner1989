@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise templateType="8" styleSheet="../stylesheets/T8_style.xml">
+	<title><![CDATA[My cell phone (1)]]></title>
+	<rubric><![CDATA[<b>Watch the video. Click on the eight words you hear.</b>]]></rubric>
+	<video>content/smart1/video/L1U05_FINAL_LAN.swf</video>
+	<words>
+		<word answer="correct">always</word>
+		<word answer="correct">class</word>
+		<word answer="correct">date</word>
+		<word answer="correct">movie theater</word>
+		<word answer="correct">never</word>
+		<word answer="correct">restaurant</word>
+		<word answer="correct">sometimes</word>
+		<word answer="correct">usually</word>
+		<word>airport</word>
+		<word>college</word>
+		<word>every day</word>
+		<word>every night</word>
+		<word>hospital</word>
+		<word>Internet cafe</word>
+		<word>work</word>
+	</words>
+</exercise>
+
+
