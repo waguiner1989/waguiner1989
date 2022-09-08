@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waguiner1989
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning python, HTML, PHP
+- 🌱 I’m currently learning python, HTML
 - 💞️ I’m looking to collaborate on any projects to gain experience
 - 📫 How to reach me +55 15 996232905
 
